@@ -81,7 +81,7 @@ Geographic Mapping Visualization
 
 Dashboard Preview
 
-![Dashboard ]( )
+![Dashboard ](https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
 # Key Insights
 
