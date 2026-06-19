@@ -79,7 +79,7 @@ Interactive Slicers
 Scatter Plot Analysis
 Geographic Mapping Visualization
 
-Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard ](https://github.com/jeisteve999/OpenGovAfrica-CPI-Governance-Analysis-Across-Africa/blob/main/dashboard%205.png)
 
